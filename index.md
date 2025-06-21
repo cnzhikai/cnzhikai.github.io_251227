@@ -13,13 +13,9 @@ I pursue a vertically integrated strategy, driving innovation from device to cir
 ## Research Interests
 
 - **Lab-on-CMOS and Micro-Robotics**
-Designing integrated platforms that combine CMOS circuits with micro-robotic actuation and sensing to enable advanced manipulation and analysis of biological systems.
-
 - **CMOS IC Design, MEMS Integration, and Micro-/Nano-Fabrication**
-Innovating across the device and fabrication stack—from custom CMOS circuit design to monolithic and heterogeneous MEMS integration—toward fully integrated microsystems.
-
 - **Intelligent Biomedical Microsystems**
-Applying machine learning to enhance the functionality, adaptability, and decision-making of CMOS-based biomedical devices for precision diagnostics and real-time control.
+
 
 ## News
 <ul id="news-list">
