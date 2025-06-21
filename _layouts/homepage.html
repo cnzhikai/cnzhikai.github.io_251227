@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{ site.title }} | {{ site.affiliation }}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -37,6 +37,24 @@
     <style>
       html {
         scroll-behavior: smooth;
+      }
+      /* ✅ 清除默认列表样式，实现极简垂直目录 */
+      #toc-list {
+        all: unset;
+        display: block;
+        margin: 1em 0;
+        padding-left: 0;
+      }
+      #toc-list li {
+        all: unset;
+        display: block;
+        margin: 0.2em 0;
+      }
+      #toc-list li a {
+        all: unset;
+        cursor: pointer;
+        color: inherit;
+        text-decoration: none;
       }
     </style>
   </head>
@@ -89,8 +107,8 @@
           {% endif %}
         </div>
 
-        <!-- ✅ 简洁目录（垂直列表） -->
-        <ul id="toc-list" style="list-style: none; padding-left: 0; margin: 0;"></ul>
+        <!-- ✅ 简洁目录（无背景无标题） -->
+        <ul id="toc-list"></ul>
       </header>
 
       <section>
@@ -108,7 +126,7 @@
       <footer></footer>
     </div>
 
-    <!-- ✅ 自动生成 TOC 的 JS -->
+    <!-- ✅ 自动生成目录脚本 -->
     <script>
     document.addEventListener("DOMContentLoaded", function () {
       const headers = document.querySelectorAll("section h2");
