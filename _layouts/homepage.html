@@ -89,8 +89,8 @@
           {% endif %}
         </div>
 
-        <!-- 📌 极简目录 -->
-        <ul id="toc-list"></ul>
+        <!-- ✅ 简洁目录（垂直列表） -->
+        <ul id="toc-list" style="list-style: none; padding-left: 0; margin: 0;"></ul>
       </header>
 
       <section>
@@ -108,7 +108,7 @@
       <footer></footer>
     </div>
 
-    <!-- 📌 自动生成极简 TOC -->
+    <!-- ✅ 自动生成 TOC 的 JS -->
     <script>
     document.addEventListener("DOMContentLoaded", function () {
       const headers = document.querySelectorAll("section h2");
