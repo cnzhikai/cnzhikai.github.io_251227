@@ -38,33 +38,6 @@
       html {
         scroll-behavior: smooth;
       }
-      #toc-container {
-        margin-top: 30px;
-        margin-bottom: 20px;
-        padding: 10px 15px;
-        background-color: #f9f9f9;
-        border-left: 4px solid #ccc;
-      }
-      #toc-container h2 {
-        font-size: 1.1rem;
-        margin-top: 0;
-      }
-      #toc-list {
-        list-style: none;
-        padding-left: 0;
-        margin: 0;
-        font-size: 0.95rem;
-      }
-      #toc-list li {
-        margin-bottom: 6px;
-      }
-      #toc-list a {
-        text-decoration: none;
-        color: #333;
-      }
-      #toc-list a:hover {
-        text-decoration: underline;
-      }
     </style>
   </head>
   <body>
@@ -116,11 +89,8 @@
           {% endif %}
         </div>
 
-        <!-- 📌 插入目录容器 -->
-        <div id="toc-container">
-          <h2>目录</h2>
-          <ul id="toc-list"></ul>
-        </div>
+        <!-- 📌 极简目录 -->
+        <ul id="toc-list"></ul>
       </header>
 
       <section>
@@ -138,26 +108,18 @@
       <footer></footer>
     </div>
 
-    <!-- 📌 自动生成 TOC 的 JS -->
+    <!-- 📌 自动生成极简 TOC -->
     <script>
     document.addEventListener("DOMContentLoaded", function () {
-      const section = document.querySelector("section");
-      const headers = section.querySelectorAll("h2");
+      const headers = document.querySelectorAll("section h2");
       const tocList = document.getElementById("toc-list");
 
-      headers.forEach((header, i) => {
-        if (!header.id) header.id = "section-" + i;
-
+      headers.forEach((header, index) => {
+        if (!header.id) header.id = "section-" + index;
         const li = document.createElement("li");
         const a = document.createElement("a");
         a.href = "#" + header.id;
         a.textContent = header.textContent;
-        a.style.textDecoration = "none";
-        a.style.color = "#333";
-
-        a.addEventListener("mouseover", () => a.style.textDecoration = "underline");
-        a.addEventListener("mouseout", () => a.style.textDecoration = "none");
-
         li.appendChild(a);
         tocList.appendChild(li);
       });
