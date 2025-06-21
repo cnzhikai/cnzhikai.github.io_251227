@@ -31,32 +31,45 @@ I am a Ph.D. student at ...
   display: none;
 }
 #toggle-news {
-  margin-top: 10px;
-  padding: 6px 12px;
+  background: none;
+  border: none;
+  color: #007acc;
   font-size: 14px;
   cursor: pointer;
+  padding: 5px;
+  margin-top: 10px;
+  text-decoration: underline;
 }
 </style>
 
 <script>
-document.addEventListener('DOMContentLoaded', function(){
+document.addEventListener('DOMContentLoaded', function() {
   const items = document.querySelectorAll('#news-list .news-item');
   const btn = document.getElementById('toggle-news');
+  let expanded = false;
 
-  // Automatically hide items beyond the 5th
+  // Initially hide items after 5
   items.forEach((item, index) => {
     if (index >= 5) item.classList.add('hidden');
   });
 
-  // Hide button if 5 or fewer items
   if (items.length <= 5) {
     btn.style.display = 'none';
     return;
   }
 
   btn.addEventListener('click', function() {
-    items.forEach(item => item.classList.remove('hidden'));
-    btn.style.display = 'none';
+    expanded = !expanded;
+    items.forEach((item, index) => {
+      if (index >= 5) {
+        if (expanded) {
+          item.classList.remove('hidden');
+        } else {
+          item.classList.add('hidden');
+        }
+      }
+    });
+    btn.textContent = expanded ? 'Show Less' : 'Show More';
   });
 });
 </script>
