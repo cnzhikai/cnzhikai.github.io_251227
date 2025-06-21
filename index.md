@@ -20,8 +20,7 @@ I am a Ph.D. student at ...
   <li class="news-item">**[Oct. 2019]** Gave a talk at CVPR Workshop on Incremental Learning.</li>
   <li class="news-item">**[Sept. 2019]** Paper accepted to ICCV 2019.</li>
   <li class="news-item">**[Aug. 2019]** Released new dataset on few-shot classification.</li>
-</ul>
-<button id="toggle-news">Show More</button>
+</ul><button id="toggle-news">Show More</button>
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
@@ -30,15 +29,20 @@ I am a Ph.D. student at ...
 .news-item.hidden {
   display: none;
 }
+#news-list {
+  margin-bottom: 0;
+  padding-left: 20px; /* match <ul> indent */
+}
 #toggle-news {
   background: none;
   border: none;
   color: #007acc;
   font-size: 14px;
   cursor: pointer;
-  padding: 5px;
-  margin-top: 10px;
+  padding: 0;
+  margin: 0;
   text-decoration: underline;
+  display: inline;
 }
 </style>
 
@@ -48,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const btn = document.getElementById('toggle-news');
   let expanded = false;
 
-  // Initially hide items after 5
+  // Hide items beyond the 5th
   items.forEach((item, index) => {
     if (index >= 5) item.classList.add('hidden');
   });
@@ -62,11 +66,7 @@ document.addEventListener('DOMContentLoaded', function() {
     expanded = !expanded;
     items.forEach((item, index) => {
       if (index >= 5) {
-        if (expanded) {
-          item.classList.remove('hidden');
-        } else {
-          item.classList.add('hidden');
-        }
+        item.classList.toggle('hidden', !expanded);
       }
     });
     btn.textContent = expanded ? 'Show Less' : 'Show More';
