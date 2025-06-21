@@ -21,3 +21,17 @@ I am a Ph.D. student at ...
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+<style>
+.news-item.hidden { display: none; }
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function(){
+  const items = document.querySelectorAll('#news-list .news-item');
+  const btn = document.getElementById('toggle-news');
+  btn.addEventListener('click', function() {
+    items.forEach(i => i.classList.remove('hidden'));
+    btn.style.display = 'none';
+  });
+});
+</script>
