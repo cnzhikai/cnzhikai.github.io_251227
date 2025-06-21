@@ -13,14 +13,14 @@ I pursue a vertically integrated strategy, driving innovation from device to cir
 ## Research Interests
 
 - **Lab on CMOS**
-- **Micro-/Nano-Fabrication
+- **Micro-/Nano-Fabrication**
 - **CMOS-MEMS Monolitic/Hetergenous Integration and Packaging**  
 - **Micro-Robotics** 
 - **Machine Learning** 
 
 ## News
 <ul id="news-list">
-  <li class="news-item">**[Oct 2024]** I presented my paper on Actuatable Microcage on IEEE BioCAS 2024 in Xi'an China.</li>
+  <li class="news-item"> [Oct 2024] I presented my paper on Actuatable Microcage on IEEE BioCAS 2024 in Xi'an China.</li>
 </ul><button id="toggle-news">Show More</button>
 
 {% include_relative _includes/publications.md %}
