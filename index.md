@@ -115,10 +115,6 @@ I pursue a vertically integrated strategy, driving innovation from device to cir
 
 
 
-
-{% include_relative _includes/publications.md %}
-{% include_relative _includes/services.md %}
-
 <style>
 .news-item.hidden {
   display: none;
