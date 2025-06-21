@@ -4,22 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am PhD student at <a href="https://ideas.ethz.ch/">Integrated Devices, Electronics, And Systems Group (IDEAS)</a>, under supervison of Prof. Dr. Hua Wang from Swiss Federal Institute of Technology Zürich (ETH Zürich).
+
+I received M.Sc. in Biomedical Engineering from <a href="https://ethz.ch/en.html">ETH Zurich</a> and B.Eng. in Microelectronics from <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a>. I was a visiting research intern at <a href="https://www.mcgill.ca/">McGill University</a>.
+
+My research interests include Lab-on-CMOS, CMOS bioelectronics, micro-/nano-fabrication, MEMS, micro-robotics, and machine learning. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning  
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Lab on CMOS** for biomedical applications
+- **Micro-/Nano-Fabrication and CMOS Monolitic/Hetergenous Packaging**  
+- **Micro-Robotics** 
+- **Machine Learning** 
 
 ## News
 <ul id="news-list">
-  <li class="news-item">**[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.</li>
-  <li class="news-item">**[Jan. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!</li>
-  <li class="news-item">**[Dec. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.</li>
-  <li class="news-item">**[Nov. 2019]** We released new code for meta-learning.</li>
-  <li class="news-item">**[Oct. 2019]** Gave a talk at CVPR Workshop on Incremental Learning.</li>
-  <li class="news-item">**[Sept. 2019]** Paper accepted to ICCV 2019.</li>
-  <li class="news-item">**[Aug. 2019]** Released new dataset on few-shot classification.</li>
+  <li class="news-item">**[Oct 2024]** I presented my paper on Actuatable Microcage on IEEE BioCAS 2024 in Xi'an China.</li>
 </ul><button id="toggle-news">Show More</button>
 
 {% include_relative _includes/publications.md %}
