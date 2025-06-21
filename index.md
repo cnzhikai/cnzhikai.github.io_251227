@@ -12,8 +12,9 @@ My research interests include Lab-on-CMOS, CMOS bioelectronics, micro-/nano-fabr
 
 ## Research Interests
 
-- **Lab on CMOS** for biomedical applications
-- **Micro-/Nano-Fabrication and CMOS Monolitic/Hetergenous Packaging**  
+- **Lab on CMOS**
+- **Micro-/Nano-Fabrication
+- **CMOS-MEMS Monolitic/Hetergenous Integration and Packaging**  
 - **Micro-Robotics** 
 - **Machine Learning** 
 
