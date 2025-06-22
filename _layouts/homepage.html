@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{ site.affiliation }}</title>
+    <title>{{ site.title }} ({{ site.title_chinese }}) | {{ site.affiliation }}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -65,7 +65,8 @@
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
+        
+        <h1>{{ site.title }}<br>({{ site.title_chinese }})</h1>
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position><br>
