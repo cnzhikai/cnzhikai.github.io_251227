@@ -96,8 +96,16 @@ I pursue a vertically integrated strategy, driving innovation from device to cir
 
 ## Teaching
 
+### Teaching Activities
 - 2024 Fall. Teaching Assistant, Electronic Circuits (Bachelor Course), ETH Zurich.
 - 2024 Spring. Grader, Electronic Circuits (Bachelor Course), ETH Zurich.
+
+### Supervision and Mentoring
+- 2025
+  - **Noelle Held**, Bachelor Thesis (Spring)
+    -  *Comparative Study on the Performance of Planar Microelectrodes and 3D Shell Electrodes for Biological Interfacing*
+  - **Joel Kiener, Julian Steiner, Mischa Vasylyev**, Bachelor Group Project (Spring)
+    - *Cell Recognition with a Custom-Designed CMOS Biosensor Array*
 
 ## Services
 
