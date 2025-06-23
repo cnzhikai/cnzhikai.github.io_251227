@@ -12,8 +12,9 @@ I pursue a vertically integrated strategy, driving innovation from device to cir
 
 ## Research Interests
 
-- **Lab-on-CMOS, CMOS Enabled Micro-Robotics**
-- **CMOS IC Design, CMOS-MEMS Integration, and Micro-/Nano-Fabrication**
+- **Lab-on-CMOS, CMOS Bioelectronics**
+- **CMOS Enabled Micro-Robotics, MEMS, Micro-/Nano-Fabrication**
+- **Analog-/Mixed-Signal IC Design**
 - **Edge AI, Machine Learning**
 
 
