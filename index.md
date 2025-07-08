@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am PhD student at <a href="https://ideas.ethz.ch/">Integrated Devices, Electronics, And System (IDEAS)</a> Group, under supervison of Prof. Dr. Hua Wang from Swiss Federal Institute of Technology Zürich (ETH Zürich).
+I am a PhD student at <a href="https://ideas.ethz.ch/">Integrated Devices, Electronics, And System (IDEAS)</a> Group, under supervison of Prof. Dr. Hua Wang from Swiss Federal Institute of Technology Zürich (ETH Zürich).
 
 I received M.Sc. in Biomedical Engineering from <a href="https://ethz.ch/en.html">ETH Zurich</a> and B.Eng. in Microelectronics from <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a>. I was a visiting research intern at <a href="https://www.mcgill.ca/">McGill University</a>.
 
