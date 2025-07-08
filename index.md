@@ -8,7 +8,7 @@ I am PhD student at <a href="https://ideas.ethz.ch/">Integrated Devices, Electro
 
 I received M.Sc. in Biomedical Engineering from <a href="https://ethz.ch/en.html">ETH Zurich</a> and B.Eng. in Microelectronics from <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a>. I was a visiting research intern at <a href="https://www.mcgill.ca/">McGill University</a>.
 
-I pursue a vertically integrated strategy, driving innovation from device to circuit to system level, all within a CMOS-centric platform, to tackle key challenges in biomedicine.
+I pursue a vertically integrated strategy, driving innovation from device to circuit to system level, all within a CMOS-centric platform, to tackle key challenges in bioelectronics, MEMS, and efficient computing.
 
 ## Research Interests
 
