@@ -12,9 +12,9 @@ I pursue a vertically integrated strategy, driving innovation from device to cir
 
 ## Research Interests
 
-- **CMOS Bioelectronics, Lab-on-CMOS**
-- **Micro-Actuator, MEMS, Micro-/Nano-Fabrication** 
-- **In-sensor Computing, Machine Learning**
+- *Device*: **MEMS Actuators and Sensors, Micro-/Nano-Fabrication** 
+- *Circuits*: **CMOS Bioelectronics, Mixed-Signal Integrated Circuits**
+- *System*: **In-sensor Computing, Machine Learning**
 
 
 ## News
