@@ -100,6 +100,7 @@ Feel free to reach out for any questions or collaboration opportunites.
 ## Teaching
 
 ### Teaching Activities
+- 2025 Fall. Teaching Assistant, CMOS Electronics for Biological and Molecular Sensing (Master Course), ETH Zurich
 - 2024 Fall. Teaching Assistant, Electronic Circuits (Bachelor Course), ETH Zurich.
 - 2024 Spring. Grader, Electronic Circuits (Bachelor Course), ETH Zurich.
 
@@ -113,7 +114,7 @@ Feel free to reach out for any questions or collaboration opportunites.
 ## Services
 
 - Reviewer for IEEE Conferences
-     -  ISCAS (2025)
+     -  ISCAS
  
 
 
