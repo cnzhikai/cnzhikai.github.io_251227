@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student in the [Integrated Devices, Electronics, and Systems (IDEAS)](https://ideas.ethz.ch/) Group, supervised by Prof. Dr. Hua Wang at the Swiss Federal Institute of Technology Zurich (ETH Zürich). My tentative PhD thesis is titled *Advanced Bioelectronic Lab-on-CMOS with 3D Sensing and Actuation Interfaces*.
+I am a PhD student in the [Integrated Devices, Electronics, and Systems (IDEAS)](https://ideas.ethz.ch/) Group, supervised by Prof. Dr. Hua Wang at the Swiss Federal Institute of Technology Zurich (ETH Zürich). My tentative PhD thesis is titled *Lab-on-CMOS with 3D Bioelectronic Sensing and Micro-Actuation Interfaces*.
 
 Prior to my PhD, I received an M.Sc. in Biomedical Engineering from [ETH Zurich](https://ethz.ch/en.html) and a B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). I also worked as a visiting research intern at [McGill University](https://www.mcgill.ca/).
 
