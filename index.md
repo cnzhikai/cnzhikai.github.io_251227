@@ -19,15 +19,32 @@ Feel free to reach out for any questions or collaboration opportunites.
 - **Bioelectronic Devices**, especially CMOS-compatible microfabrication and integration of 3D actuators and sensors. ([BioCAS 24'](https://ieeexplore.ieee.org/abstract/document/10798135/))
 - **Machine Learning**, especially in-sensor computing and on-chip learning. ([DATE 22'](https://ieeexplore.ieee.org/abstract/document/9774552/))
 
-
-
 ## News
 <ul id="news-list">
   <li class="news-item"> [Oct 2024] I presented my paper on Actuatable Microcage on IEEE BioCAS 2024 in Xi'an China.</li>
 </ul><button id="toggle-news">Show More</button>
 
 
-## Publication
+## Teaching
+
+### Teaching Activities
+- 2025 Fall. Teaching Assistant, CMOS Electronics for Biological and Molecular Sensing (Master Course), ETH Zurich
+- 2024 Fall. Teaching Assistant, Electronic Circuits (Bachelor Course), ETH Zurich.
+- 2024 Spring. Grader, Electronic Circuits (Bachelor Course), ETH Zurich.
+
+### Supervision and Mentoring
+- 2025
+  - **Noelle Held**, Bachelor Thesis (Spring)
+    -  *Comparative Study on the Performance of Planar Microelectrodes and 3D Shell Electrodes for Biological Interfacing*
+  - **Joel Kiener, Julian Steiner, Mischa Vasylyev**, Bachelor Group Project (Spring)
+    - *Cell Recognition with a Custom-Designed CMOS Biosensor Array*
+
+## Services
+
+- Reviewer for IEEE Conferences
+     -  ISCAS
+ 
+## Publications
 
 
 ### Conference Papers 
@@ -95,28 +112,6 @@ Feel free to reach out for any questions or collaboration opportunites.
 
 </ol>
 </div>
-
-
-
-## Teaching
-
-### Teaching Activities
-- 2025 Fall. Teaching Assistant, CMOS Electronics for Biological and Molecular Sensing (Master Course), ETH Zurich
-- 2024 Fall. Teaching Assistant, Electronic Circuits (Bachelor Course), ETH Zurich.
-- 2024 Spring. Grader, Electronic Circuits (Bachelor Course), ETH Zurich.
-
-### Supervision and Mentoring
-- 2025
-  - **Noelle Held**, Bachelor Thesis (Spring)
-    -  *Comparative Study on the Performance of Planar Microelectrodes and 3D Shell Electrodes for Biological Interfacing*
-  - **Joel Kiener, Julian Steiner, Mischa Vasylyev**, Bachelor Group Project (Spring)
-    - *Cell Recognition with a Custom-Designed CMOS Biosensor Array*
-
-## Services
-
-- Reviewer for IEEE Conferences
-     -  ISCAS
- 
 
 
 
