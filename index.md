@@ -15,9 +15,9 @@ Feel free to reach out for any questions or collaboration opportunites.
 
 ## Research Interests
 
-- *Integrated Circuits*, especially in area-efficient analog front-ends and high-throughput readout architectures.
-- *Bioelectronic Devices*, especially CMOS-compatible microfabrication of 3D actuators and sensors.
-- *Machine Learning*, especially in-sensor computing.
+- **Integrated Circuits**, especially area-efficient precision analog front-ends and high-throughput readout architectures.
+- **Bioelectronic Devices**, especially CMOS-compatible microfabrication and integration of 3D actuators and sensors.
+- **Machine Learning**, especially in-sensor computing and on-chip learning.
 
 
 
