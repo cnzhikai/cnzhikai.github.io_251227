@@ -15,7 +15,7 @@ Feel free to reach out for any questions or collaboration opportunites.
 
 ## Research Interests
 
-- **Bioelectronic Devices**, especially CMOS-compatible microfabrication and integration of 3D actuators and sensors. ([BioCAS 24](https://ieeexplore.ieee.org/abstract/document/10798135/))
+- **Bioelectronic Devices**, especially CMOS-compatible microfabrication and integration of 3D actuators and sensors. (ISSCC 26, [BioCAS 24](https://ieeexplore.ieee.org/abstract/document/10798135/))
 - **Integrated Circuits**, especially area-efficient precision analog front-ends and high-throughput readout architectures. ([ISSCC 25](https://ieeexplore.ieee.org/abstract/document/10904809/), [VLSI 24](https://ieeexplore.ieee.org/abstract/document/10631420/))
 - **Machine Learning**, especially in-sensor computing and on-chip learning. ([DATE 22](https://ieeexplore.ieee.org/abstract/document/9774552/))
 
