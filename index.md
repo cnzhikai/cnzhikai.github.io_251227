@@ -21,7 +21,7 @@ Feel free to reach out for any questions or collaboration opportunites.
 
 ## News
 <ul id="news-list">
-  <li class="news-item"> [Oct 2024] I presented my paper on Actuatable Microcage on IEEE BioCAS 2024 in Xi'an China.</li>
+  <li class="news-item"> [2024.10] I presented my paper on Actuatable Microcage on IEEE BioCAS 2024 in Xi'an China.</li>
 </ul><button id="toggle-news">Show More</button>
 
 
@@ -42,7 +42,7 @@ Feel free to reach out for any questions or collaboration opportunites.
 ## Services
 
 - Reviewer for IEEE Conferences
-     -  ISCAS
+     -  IEEE International Symposium on Circuits and Systems (ISCAS)
  
 ## Publications
 
