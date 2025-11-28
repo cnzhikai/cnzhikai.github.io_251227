@@ -39,8 +39,8 @@ Feel free to reach out for any questions or collaboration opportunites.
 - 2024 Spring. Grader, Electronic Circuits (Bachelor Course), ETH Zurich.
 
 ### Mentoring
-- 2025 Spring. Noelle Held. Bachelor Thesis. *Comparative Study on the Performance of Planar Microelectrodes and 3D Shell Electrodes for Biological Interfacing*, ETH Zurich.
-- 2025 Spring. Joel Kiener, Julian Steiner and Mischa Vasylyev. Bachelor Group Project. *Cell Recognition with a Custom-Designed CMOS Biosensor Array*, ETH Zurich.
+- 2025 Spring. Noelle Held. *Comparative Study on the Performance of Planar Microelectrodes and 3D Shell Electrodes for Biological Interfacing*, Bachelor Thesis, ETH Zurich.
+- 2025 Spring. Joel Kiener, Julian Steiner and Mischa Vasylyev. *Cell Recognition with a Custom-Designed CMOS Biosensor Array*, Bachelor Group Proejct, ETH Zurich.
 
 ## Services
 
