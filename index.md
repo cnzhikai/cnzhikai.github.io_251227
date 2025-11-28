@@ -33,17 +33,14 @@ Feel free to reach out for any questions or collaboration opportunites.
 
 ## Teaching
 
-### Teaching Activities
-- 2025 Fall. Teaching Assistant, CMOS Electronics for Biological and Molecular Sensing (Master Course), ETH Zurich
+### Lectures
+- 2025 Fall. Teaching Assistant, CMOS Electronics for Biological and Molecular Sensing (Master Course), ETH Zurich.
 - 2024 Fall. Teaching Assistant, Electronic Circuits (Bachelor Course), ETH Zurich.
 - 2024 Spring. Grader, Electronic Circuits (Bachelor Course), ETH Zurich.
 
-### Supervision and Mentoring
-- 2025
-  - **Noelle Held**, Bachelor Thesis (Spring)
-    -  *Comparative Study on the Performance of Planar Microelectrodes and 3D Shell Electrodes for Biological Interfacing*
-  - **Joel Kiener, Julian Steiner, Mischa Vasylyev**, Bachelor Group Project (Spring)
-    - *Cell Recognition with a Custom-Designed CMOS Biosensor Array*
+### Mentoring
+- 2025 Spring. Noelle Held. Bachelor Thesis. *Comparative Study on the Performance of Planar Microelectrodes and 3D Shell Electrodes for Biological Interfacing*, ETH Zurich.
+- 2025 Spring. Joel Kiener, Julian Steiner and Mischa Vasylyev. Bachelor Group Project. *Cell Recognition with a Custom-Designed CMOS Biosensor Array*, ETH Zurich.
 
 ## Services
 
