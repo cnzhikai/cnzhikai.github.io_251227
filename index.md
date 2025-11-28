@@ -21,6 +21,11 @@ Feel free to reach out for any questions or collaboration opportunites.
 
 ## News
 <ul id="news-list">
+  <li class="news-item"> [2025.11] The paper about multi-size micro-cage is accepted to ISSCC 2026, congrats! </li>
+  <li class="news-item"> [2024.10] I presented my paper on Actuatable Microcage on IEEE BioCAS 2024 in Xi'an China.</li>
+    <li class="news-item"> [2025.11] The paper about multi-size micro-cage is accepted to ISSCC 2026, congrats! </li>
+  <li class="news-item"> [2024.10] I presented my paper on Actuatable Microcage on IEEE BioCAS 2024 in Xi'an China.</li>
+    <li class="news-item"> [2025.11] The paper about multi-size micro-cage is accepted to ISSCC 2026, congrats! </li>
   <li class="news-item"> [2024.10] I presented my paper on Actuatable Microcage on IEEE BioCAS 2024 in Xi'an China.</li>
 </ul><button id="toggle-news">Show More</button>
 
