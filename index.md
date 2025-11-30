@@ -134,7 +134,6 @@ Feel free to reach out for any questions or collaboration opportunites.
 }
 #news-list {
   margin-bottom: 0;
-  padding-left: 20px; /* match <ul> indent */
 }
 #toggle-news {
   background: none;
