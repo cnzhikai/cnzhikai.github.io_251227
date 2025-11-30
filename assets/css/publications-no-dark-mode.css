@@ -75,7 +75,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
 
 
-/* Reverse numbering, numbers shift left, text stays unchanged */
+/* Clean reverse numbering with text shifted right */
 ol.reverse-numbering {
   list-style: none;
   counter-reset: rev-counter var(--item-count);
@@ -86,17 +86,17 @@ ol.reverse-numbering {
 ol.reverse-numbering > li {
   counter-increment: rev-counter -1;
   position: relative;
+  padding-left: 3.2em;        /* ← 文字整体右移，避免重叠 */
   margin-bottom: 1rem;
 }
 
-/* 数字向左侧移动，不影响正文布局 */
 ol.reverse-numbering > li::before {
-  content: counter(rev-counter) ".";
+  content: counter(rev-counter) ".";  
   position: absolute;
-  right: 100%;              /* 放在 li 的左边 */
-  margin-right: 0.7em;      /* 数字和正文之间的间隙 */
-  width: 3em;               /* ⬅️ 可容纳 3~4 位数字 */
-  text-align: right;        /* 数字右对齐 */
+  left: 0;
+  top: 0.1em;
+  width: 2.7em;               /* ← 数字独立区域，不挤正文 */
+  text-align: right;
   font-weight: bold;
 }
 
