@@ -51,7 +51,7 @@ Feel free to reach out for any questions or collaboration opportunites.
 ### Conference Papers 
 
 <div>
-<ol class="reverse-numbering">
+<ol reversed>
     <li>
         <a href=""><b>Shape-Memory Multi-Size Micro-Cage Array on CMOS with Integrated Electrochemical Sensors for Joint Bio-Sample Manipulation and Sensing</b></a> <br />
         <u>Zhikai Huang</u>, Fuze Jiang, Hangxing Liu, Adam Wang, Yuguo Sheng, Marco Saif, Hua Wang   <br />
@@ -104,18 +104,17 @@ Feel free to reach out for any questions or collaboration opportunites.
 ### Thesis
 
 <div>
-<ol class="reverse-numbering">
+<ol reversed>
+    <li>
+        <b> A Battery State-of-Charge Estimation ASIC without Current Dectection</b> <br />
+        <u>Zhikai Huang</u>  <br />
+        <i>2019 Bachelor of Engineering in Microelectronics Thesis at Xi'an Jiaotong University</i>
+    </li>   
     <li>
         <b> A Continuous-Time Input Pipelined SAR ADC with Loop-Embedded Predictive Offset Generation</b> <br />
         <u>Zhikai Huang</u>  <br />
         <i>2022 Master of Science in Biomedical Engineering Thesis at ETH Zurich</i>
     </li>
-    <li>
-        <b> A Battery State-of-Charge Estimation ASIC without Current Dectection</b> <br />
-        <u>Zhikai Huang</u>  <br />
-        <i>2019 Bachelor of Engineering in Microelectronics Thesis at Xi'an Jiaotong University</i>
-    </li>    
-
 </ol>
 </div>
 
