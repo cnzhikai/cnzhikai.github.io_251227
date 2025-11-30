@@ -52,7 +52,12 @@ Feel free to reach out for any questions or collaboration opportunites.
 
 <div>
 <ol class="reverse-numbering">
-    <li><span class="prefix">C</span>
+    <li>
+        <a href=""><b>Shape-Memory Multi-Size Micro-Cage Array on CMOS with Integrated Electrochemical Sensors for Joint Bio-Sample Manipulation and Sensing</b></a> <br />
+        <u>Zhikai Huang</u>, Fuze Jiang, Hangxing Liu, Adam Wang, Yuguo Sheng, Marco Saif, Hua Wang   <br />
+        In <i>2026 IEEE International Solid-State Circuits Conference</i> (ISSCC 2026)
+    </li>
+    <li>
         <a href="https://doi.org/10.1109/ISSCC49661.2025.10904809"><b>MEMS-Free 4096-Pixel CMOS E-Nose Gas Sensor Array with Molecular-Selective Metal-Organic-Framework Sensing and In-Pixel Thermodynamic Modulation for Fast Sensor Regeneration</b></a> <br />
         Marco Saif, Fuze Jiang, Shao-Wei Lo, Adam Y Wang, <u>Zhikai Huang</u>, Jiachen Wang, Hangxing Liu, Chih-Jen Shih, Thomas Burger, Hua Wang   <br />
         In <i>2025 IEEE International Solid-State Circuits Conference</i> (ISSCC 2025)
