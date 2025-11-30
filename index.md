@@ -99,7 +99,7 @@ Feel free to reach out for any questions or collaboration opportunites.
 ### Thesis
 
 <div>
-<ol>
+<ol class="reverse-numbering">
     <li>
         <b> A Continuous-Time Input Pipelined SAR ADC with Loop-Embedded Predictive Offset Generation</b> <br />
         <u>Zhikai Huang</u>  <br />
