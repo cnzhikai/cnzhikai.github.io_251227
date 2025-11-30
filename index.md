@@ -52,7 +52,7 @@ Feel free to reach out for any questions or collaboration opportunites.
 
 <div>
 <ol class="reverse-numbering">
-    <li>
+    <li><span class="prefix">C</span>
         <a href="https://doi.org/10.1109/ISSCC49661.2025.10904809"><b>MEMS-Free 4096-Pixel CMOS E-Nose Gas Sensor Array with Molecular-Selective Metal-Organic-Framework Sensing and In-Pixel Thermodynamic Modulation for Fast Sensor Regeneration</b></a> <br />
         Marco Saif, Fuze Jiang, Shao-Wei Lo, Adam Y Wang, <u>Zhikai Huang</u>, Jiachen Wang, Hangxing Liu, Chih-Jen Shih, Thomas Burger, Hua Wang   <br />
         In <i>2025 IEEE International Solid-State Circuits Conference</i> (ISSCC 2025)
