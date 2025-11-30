@@ -51,7 +51,7 @@ Feel free to reach out for any questions or collaboration opportunites.
 ### Conference Papers 
 
 <div>
-<ol>
+<ol class="reverse-numbering">
     <li>
         <a href="https://doi.org/10.1109/ISSCC49661.2025.10904809"><b>MEMS-Free 4096-Pixel CMOS E-Nose Gas Sensor Array with Molecular-Selective Metal-Organic-Framework Sensing and In-Pixel Thermodynamic Modulation for Fast Sensor Regeneration</b></a> <br />
         Marco Saif, Fuze Jiang, Shao-Wei Lo, Adam Y Wang, <u>Zhikai Huang</u>, Jiachen Wang, Hangxing Liu, Chih-Jen Shih, Thomas Burger, Hua Wang   <br />
@@ -171,3 +171,29 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 </script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll("ol.reverse-numbering").forEach(function (ol) {
+    let items = ol.querySelectorAll("li").length;
+    ol.style.setProperty("--item-count", items);
+  });
+});
+</script>
+
+<style>
+/* Auto reverse numbering */
+ol.reverse-numbering {
+  counter-reset: rev-counter var(--item-count);
+}
+
+ol.reverse-numbering > li {
+  counter-increment: rev-counter -1;
+}
+
+ol.reverse-numbering > li::before {
+  content: counter(rev-counter) ". ";
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+</style>
