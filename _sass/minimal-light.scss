@@ -1,3 +1,9 @@
+body {
+  /* 系统默认字体栈（常见做法） */
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
 .pub-row {
   display: flex; 
   align-items: center;}
