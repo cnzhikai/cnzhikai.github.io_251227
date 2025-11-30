@@ -186,19 +186,3 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
-<style>
-/* Auto reverse numbering */
-ol.reverse-numbering {
-  counter-reset: rev-counter var(--item-count);
-}
-
-ol.reverse-numbering > li {
-  counter-increment: rev-counter -1;
-}
-
-ol.reverse-numbering > li::before {
-  content: counter(rev-counter) ". ";
-  font-weight: bold;
-  margin-right: 0.5rem;
-}
-</style>
