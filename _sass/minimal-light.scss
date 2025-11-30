@@ -1,8 +1,3 @@
-body {
-  /* 系统默认字体栈（常见做法） */
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-               Roboto, "Helvetica Neue", Arial, sans-serif;
-}
 
 .pub-row {
   display: flex; 
@@ -601,3 +596,9 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+html, body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+               "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+}
+
