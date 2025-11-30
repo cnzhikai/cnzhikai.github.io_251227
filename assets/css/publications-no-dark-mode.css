@@ -75,23 +75,25 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
 
 
-/* Auto reverse numbering */
+/* Robust reverse numbering — supports up to 3–4 digits */
 ol.reverse-numbering {
-  list-style: none;                       /* 关掉自带编号 */
+  list-style: none;                           /* 关闭默认编号 */
   counter-reset: rev-counter var(--item-count);
-  margin-left: 0;
-  padding-left: 1.8em;                    /* 控制整体缩进，看着更像正常列表 */
+  padding-left: 4.5em;                        /* 给编号 + 点号预留大空间 */
 }
 
 ol.reverse-numbering > li {
   counter-increment: rev-counter -1;
-  position: relative;                     /* 让 ::before 可以绝对定位 */
+  position: relative;
+  margin-bottom: 1rem;
 }
 
 ol.reverse-numbering > li::before {
-  content: counter(rev-counter) ". ";
+  content: counter(rev-counter) ".";
   position: absolute;
-  left: 0;                                /* 编号放到行最左侧 */
+  left: 0;
+  width: 3.5em;                               /* 可容纳最多 3 位数字 */
+  text-align: right;
   font-weight: bold;
 }
 
