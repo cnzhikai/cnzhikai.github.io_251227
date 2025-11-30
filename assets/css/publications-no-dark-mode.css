@@ -75,30 +75,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
 
 
-/* Clean reverse numbering with text shifted right */
-ol.reverse-numbering {
-  list-style: none;
-  counter-reset: rev-counter var(--item-count);
-  margin: 0;
-  padding: 0;
-}
 
-ol.reverse-numbering > li {
-  counter-increment: rev-counter -1;
-  position: relative;
-  padding-left: 3.2em;        /* ← 文字整体右移，避免重叠 */
-  margin-bottom: 1rem;
-}
-
-ol.reverse-numbering > li::before {
-  content: counter(rev-counter) ".";  
-  position: absolute;
-  left: 0;
-  top: 0.1em;
-  width: 2.7em;               /* ← 数字独立区域，不挤正文 */
-  text-align: right;
-  font-weight: bold;
-}
 
 
 
