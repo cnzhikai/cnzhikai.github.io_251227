@@ -53,7 +53,7 @@ Feel free to reach out for any questions or collaboration opportunites.
 <div>
 <ol reversed>
     <li>
-        <a href=""><b>Shape-Memory Multi-Size Micro-Cage Array on CMOS with Integrated Electrochemical Sensors for Joint Bio-Sample Manipulation and Sensing</b></a> <br />
+        <b>Shape-Memory Multi-Size Micro-Cage Array on CMOS with Integrated Electrochemical Sensors for Joint Bio-Sample Manipulation and Sensing</b> <br />
         <u>Zhikai Huang</u>, Fuze Jiang, Hangxing Liu, Adam Wang, Yuguo Sheng, Marco Saif, Hua Wang   <br />
         In <i>2026 IEEE International Solid-State Circuits Conference</i> (ISSCC 2026)
     </li>
