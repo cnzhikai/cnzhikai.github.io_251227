@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student in the [Integrated Devices, Electronics, and Systems (IDEAS)](https://ideas.ethz.ch/) Group, supervised by Prof. Dr. Hua Wang at the Swiss Federal Institute of Technology Zurich (ETH Zürich). I am interested in developing innovative devices, circuits, and systems that extend the capabilities of CMOS technologies for biomedical applications. 
+I am currently a Ph.D. student in the [Integrated Devices, Electronics, and Systems (IDEAS)](https://ideas.ethz.ch/) Group, supervised by Prof. Dr. Hua Wang at [ETH Zürich](https://ethz.ch/en.html), where I also completed my M.Sc. in Biomedical Engineering. Before that, I received a B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) and was a visiting research intern at [McGill University](https://www.mcgill.ca/).
 
-Prior to my PhD, I received an M.Sc. in Biomedical Engineering from [ETH Zurich](https://ethz.ch/en.html) and a B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). I also worked as a visiting research intern at [McGill University](https://www.mcgill.ca/).
+My research focuses on Lab-on-CMOS microsystems for advanced biological interfaces, especially those enabled by 3D bioelectronic sensors and actuators. I further develop circuits and systems that support in-sensor computing and on-chip machine learning to improve system intelligence and performance.
 
 Feel free to reach out for any questions or collaboration opportunites.
 
@@ -14,7 +14,7 @@ Feel free to reach out for any questions or collaboration opportunites.
 ## Research Interests
 
 - **Bioelectronic Microsystems**, especially CMOS-compatible microfabrication and integration of 3D actuators and sensors. (ISSCC 26, [BioCAS 24](https://ieeexplore.ieee.org/abstract/document/10798135/))
-- **Integrated Circuits**, especially area-efficient precision analog front-ends and high-throughput readout architectures. ([ISSCC 25](https://ieeexplore.ieee.org/abstract/document/10904809/), [VLSI 24](https://ieeexplore.ieee.org/abstract/document/10631420/))
+- **Integrated Circuits**, especially analog front-ends for molecular/cellular sensing. ([ISSCC 25](https://ieeexplore.ieee.org/abstract/document/10904809/), [VLSI 24](https://ieeexplore.ieee.org/abstract/document/10631420/))
 - **Machine Learning**, especially in-sensor computing and on-chip learning. ([DATE 22](https://ieeexplore.ieee.org/abstract/document/9774552/))
 
 ## News
