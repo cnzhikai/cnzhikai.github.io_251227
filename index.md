@@ -11,16 +11,12 @@ My research focuses on Lab-on-CMOS microsystems for advanced biological interfac
 Feel free to reach out for any questions or collaboration opportunites.
 
 
-## Research Interests
+## Research Overview
 
 
 <img src="https://raw.githubusercontent.com/cnzhikai/cnzhikai.github.io/refs/heads/main/assets/img/research.png"
      alt="Research"
      style="max-width:70%; height:auto; display:block; margin:0 auto;">
-
-- **3DLab-on-CMOS**: ISSCC '26, [BioCAS '24](https://ieeexplore.ieee.org/abstract/document/10798135/)
-- **Lab-on-AIChip**: [DATE '22](https://ieeexplore.ieee.org/abstract/document/9774552/)
-- **Fundamentals**: [ISSCC '25](https://ieeexplore.ieee.org/abstract/document/10904809/), [VLSI '24](https://ieeexplore.ieee.org/abstract/document/10631420/)
 
 
 ## News
