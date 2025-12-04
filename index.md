@@ -18,9 +18,10 @@ Feel free to reach out for any questions or collaboration opportunites.
      alt="Research"
      style="max-width:70%; height:auto; display:block; margin:0 auto;">
 
-- **Lab-on-CMOS Microsystems**, especially CMOS-compatible microfabrication and integration of 3D actuators and sensors. (ISSCC 26, [BioCAS 24](https://ieeexplore.ieee.org/abstract/document/10798135/))
-- **Integrated Circuits**, especially analog front-ends for molecular/cellular sensing. ([ISSCC 25](https://ieeexplore.ieee.org/abstract/document/10904809/), [VLSI 24](https://ieeexplore.ieee.org/abstract/document/10631420/))
-- **Lab-on-AIChip**, especially in-sensor computing and on-chip learning. ([DATE 22](https://ieeexplore.ieee.org/abstract/document/9774552/))
+- **3DLab-on-CMOS**: ISSCC '26, [BioCAS '24](https://ieeexplore.ieee.org/abstract/document/10798135/)
+- **Lab-on-AIChip**: [DATE '22](https://ieeexplore.ieee.org/abstract/document/9774552/)
+- **Fundamentals**: [ISSCC '25](https://ieeexplore.ieee.org/abstract/document/10904809/), [VLSI '24](https://ieeexplore.ieee.org/abstract/document/10631420/)
+
 
 ## News
 <ul id="news-list">
