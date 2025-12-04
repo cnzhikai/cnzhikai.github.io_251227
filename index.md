@@ -9,7 +9,7 @@ I am currently a Ph.D. student in the [Integrated Devices, Electronics, and Syst
 
 ## Research
 
-My research focuses on Lab-on-CMOS microsystems for advanced biological interfaces, especially those enabled by 3D bioelectronic sensors and actuators. I further develop circuits and systems that support in-sensor computing and on-chip machine learning to enable Lab-on-AIChip.
+My research focuses on 3D Lab-on-CMOS microsystems for advanced biological interfaces, enabled by novel sensors, actuators and integration methods. I also develop circuits and systems that support in-sensor computing and on-chip machine learning to enable Lab-on-AIChip.
 
 <img src="https://raw.githubusercontent.com/cnzhikai/cnzhikai.github.io/refs/heads/main/assets/img/research.png"
      alt="Research"
@@ -27,7 +27,7 @@ My research focuses on Lab-on-CMOS microsystems for advanced biological interfac
   <li class="news-item"> [2022.04] My first paper (as third-author) in life is online! The work was published at IEEE DATE 2022 and focuses on machine-learning accelerators. Congrats!</li>
 </ul><button id="toggle-news">Show More</button>
 
-## Academic Services
+## Services
 
 - Reviewer for IEEE Conferences
      -  IEEE International Symposium on Circuits and Systems (ISCAS)
