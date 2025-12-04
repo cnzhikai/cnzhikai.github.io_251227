@@ -28,6 +28,10 @@ Feel free to reach out for any questions or collaboration opportunites.
   <li class="news-item"> [2022.04] My first paper (as third-author) in life is online! The work was published at IEEE DATE 2022 and focuses on machine-learning accelerators. Congrats!</li>
 </ul><button id="toggle-news">Show More</button>
 
+## Academic Services
+
+- Reviewer for IEEE Conferences
+     -  IEEE International Symposium on Circuits and Systems (ISCAS)
 
 ## Teaching
 
@@ -40,10 +44,13 @@ Feel free to reach out for any questions or collaboration opportunites.
 - 2025 Spring. Noelle Held. *Comparative Study on the Performance of Planar Microelectrodes and 3D Shell Electrodes for Biological Interfacing*, Bachelor Thesis, ETH Zurich.
 - 2025 Spring. Joel Kiener, Julian Steiner and Mischa Vasylyev. *Cell Recognition with a Custom-Designed CMOS Biosensor Array*, Bachelor Group Proejct, ETH Zurich.
 
-## Services
+## Skills
+I conduct interdisciplinary research, leveraging methods and tools from multiple domains to solve high-impact scientific problems.
+- **Integrated Circuit Design**, including analog/mixed-signal circuits, digital backend physical design/synthesis, etc.
+- **Microfabrication**, including lithography, thin-film deposition, wet/dry etching, material/device characterization, etc.
+- **Machine Learning**, model training/inference pipelines, data processing, and automation scripting
+- **Biological Experiments**, culturing neuroblastoma cells (e.g., SH-SY5Y) and establishing 3D spheroid models.
 
-- Reviewer for IEEE Conferences
-     -  IEEE International Symposium on Circuits and Systems (ISCAS)
  
 ## Publications
 
