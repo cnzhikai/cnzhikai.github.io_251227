@@ -35,13 +35,17 @@ My research focuses on 3D Lab-on-CMOS microsystems for advanced biological inter
 ## Teaching
 
 ### Lectures
-- 2025 Fall. Teaching Assistant, CMOS Electronics for Biological and Molecular Sensing (Master Course), ETH Zurich.
-- 2024 Fall. Teaching Assistant, Electronic Circuits (Bachelor Course), ETH Zurich.
-- 2024 Spring. Grader, Electronic Circuits (Bachelor Course), ETH Zurich.
+- CMOS Electronics for Biological and Molecular Sensing, Master Course, ETH Zurich.
+     - Teaching Assistant, 2025 Fall
+- Electronic Circuits, Bachelor Course, ETH Zurich.
+     - Teaching Assistant, 2024 Fall
+
 
 ### Mentoring
-- 2025 Spring. Noelle Held. *Comparative Study on the Performance of Planar Microelectrodes and 3D Shell Electrodes for Biological Interfacing*, Bachelor Thesis, ETH Zurich.
-- 2025 Spring. Joel Kiener, Julian Steiner and Mischa Vasylyev. *Cell Recognition with a Custom-Designed CMOS Biosensor Array*, Bachelor Group Proejct, ETH Zurich.
+- Noelle Held. 2025 Spring, Bachelor Thesis, ETH Zurich.
+     -  *Comparative Study on the Performance of Planar Microelectrodes and 3D Shell Electrodes for Biological Interfacing*
+- Joel Kiener, Julian Steiner and Mischa Vasylyev. 2025 Spring, Bachelor Group Proejct, ETH Zurich.
+     -  *Cell Recognition with a Custom-Designed CMOS Biosensor Array*
 
 ## Skills
 I conduct interdisciplinary research, leveraging methods and tools from multiple domains to solve high-impact scientific problems.
