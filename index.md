@@ -54,6 +54,24 @@ I conduct interdisciplinary research, leveraging methods and tools from multiple
  
 ## Publications
 
+### Thesis
+
+<div>
+<ol reversed>
+  <li>
+      <b> A Continuous-Time Input Pipelined SAR ADC with Loop-Embedded Predictive Offset Generation</b> <br />
+      <u>Zhikai Huang</u>  <br />
+      <i>2022 Master of Science in Biomedical Engineering Thesis at ETH Zurich</i>
+  </li>  
+  <li>
+        <b> A Battery State-of-Charge Estimation ASIC without Current Dectection</b> <br />
+        <u>Zhikai Huang</u>  <br />
+        <i>2019 Bachelor of Engineering in Microelectronics Thesis at Xi'an Jiaotong University</i>
+    </li>   
+
+</ol>
+</div>
+
 
 ### Conference Papers 
 
@@ -108,23 +126,7 @@ I conduct interdisciplinary research, leveraging methods and tools from multiple
 </ol>
 </div>
 
-### Thesis
 
-<div>
-<ol reversed>
-  <li>
-      <b> A Continuous-Time Input Pipelined SAR ADC with Loop-Embedded Predictive Offset Generation</b> <br />
-      <u>Zhikai Huang</u>  <br />
-      <i>2022 Master of Science in Biomedical Engineering Thesis at ETH Zurich</i>
-  </li>  
-  <li>
-        <b> A Battery State-of-Charge Estimation ASIC without Current Dectection</b> <br />
-        <u>Zhikai Huang</u>  <br />
-        <i>2019 Bachelor of Engineering in Microelectronics Thesis at Xi'an Jiaotong University</i>
-    </li>   
-
-</ol>
-</div>
 
 
 
