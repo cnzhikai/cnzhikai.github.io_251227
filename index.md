@@ -9,7 +9,7 @@ I am currently a Ph.D. student in the [Integrated Devices, Electronics, and Syst
 
 ## Research
 
-My research focuses on 3D Lab-on-CMOS microsystems for advanced biological interfaces, enabled by novel sensors, actuators and integration methods. I also develop circuits and systems that support in-sensor computing and on-chip machine learning to enable Lab-on-AIChip.
+My current research focuses on developing next-generation Lab-on-CMOS systems that enable advanced 3D bio-interfaces with embedded intelligence. These 3D bio-CMOS interfaces leverage state-of-the-art integrated circuit technologies to interact with complex biological samples more effectively. Meanwhile, in-sensor computing accelerates data acquisition and processing at unprecedented spatial density.
 
 <img src="https://raw.githubusercontent.com/cnzhikai/cnzhikai.github.io/refs/heads/main/assets/img/research.png"
      alt="Research"
