@@ -9,7 +9,7 @@ I am currently a Ph.D. student in the [Integrated Devices, Electronics, and Syst
 
 ## Research
 
-My research lies at the intersection of three fields: CMOS Microsystems (ISSCC 26, BioCAS 24), Integrated Circuits (ISSCC 25, VLSI 25), and Machine Learning (DATE 22), for healthcare and beyond. 
+My research lies at the intersection of three fields: CMOS Microsystems (ISSCC 26, BioCAS 24), Integrated Circuits (ISSCC 25, VLSI 25), and AI Hardware (DATE 22), for healthcare and beyond. 
 
 <img src="https://raw.githubusercontent.com/cnzhikai/cnzhikai.github.io/refs/heads/main/assets/img/research.png"
      alt="Research"
