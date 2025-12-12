@@ -4,16 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. student in the [Integrated Devices, Electronics, and Systems (IDEAS)](https://ideas.ethz.ch/) Group, supervised by Prof. Dr. Hua Wang at [ETH Zürich](https://ethz.ch/en.html), where I also completed my M.Sc. in Biomedical Engineering. Before that, I received a B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) and was a visiting research intern at [McGill University](https://www.mcgill.ca/). Feel free to reach out for any questions or collaboration opportunites.
+I am currently a Ph.D. student in the [Integrated Devices, Electronics, and Systems (IDEAS)](https://ideas.ethz.ch/) Group, supervised by Prof. Dr. Hua Wang at [ETH Zürich](https://ethz.ch/en.html), Switzerland. My research focuses on the development of devices, circuits and systems to enhance bio-CMOS interfaces, with a particular emphasis on three-dimensional bioelectronic interfaces. 
 
+Prior to my Ph.D., I completed my M.Sc. in Biomedical Engineering also at ETH Zurich and received a B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), China. I was a visiting research intern at physics department at [McGill University](https://www.mcgill.ca/), Canada. 
 
-## Research
-
-My research lies at the intersection of three fields: CMOS Microsystems (ISSCC 26, BioCAS 24), Integrated Circuits (ISSCC 25, VLSI 25), and AI Hardware (DATE 22), for healthcare and beyond. 
-
-<img src="https://raw.githubusercontent.com/cnzhikai/cnzhikai.github.io/refs/heads/main/assets/img/research.png"
-     alt="Research"
-     style="max-width:70%; height:auto; display:block; margin:0 auto;">
+Feel free to reach out for any questions or collaboration opportunites.
 
 
 ## News
