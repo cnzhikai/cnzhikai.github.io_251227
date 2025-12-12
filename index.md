@@ -22,10 +22,6 @@ Feel free to reach out for any questions or collaboration opportunites.
   <li class="news-item"> [2022.04] My first paper (as third-author) in life is online! The work was published at IEEE DATE 2022 and focuses on machine-learning accelerators. Congrats!</li>
 </ul><button id="toggle-news">Show More</button>
 
-## Services
-
-- Reviewer for IEEE Conferences
-     -  IEEE International Symposium on Circuits and Systems (ISCAS)
 
 ## Teaching
 
@@ -49,6 +45,10 @@ I conduct interdisciplinary research, leveraging methods and tools from multiple
 - **Machine Learning**, model training/inference pipelines, data processing, and automation scripting
 - **Biological Experiments**, culturing neuroblastoma cells (e.g., SH-SY5Y) and establishing 3D spheroid models.
 
+## Services
+
+- Reviewer for IEEE Conferences
+     -  IEEE International Symposium on Circuits and Systems (ISCAS)
  
 ## Publications
 
