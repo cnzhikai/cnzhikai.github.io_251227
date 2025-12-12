@@ -23,32 +23,7 @@ Feel free to reach out for any questions or collaboration opportunites.
 </ul><button id="toggle-news">Show More</button>
 
 
-## Teaching
 
-### Lectures
-- CMOS Electronics for Biological and Molecular Sensing, Master Course, ETH Zurich.
-     - Teaching Assistant, 2025 Fall
-- Electronic Circuits, Bachelor Course, ETH Zurich.
-     - Teaching Assistant, 2024 Fall
-
-
-### Mentoring
-- Noelle Held. 2025 Spring, Bachelor Thesis, ETH Zurich.
-     -  *Comparative Study on the Performance of Planar Microelectrodes and 3D Shell Electrodes for Biological Interfacing*
-- Joel Kiener, Julian Steiner and Mischa Vasylyev. 2025 Spring, Bachelor Group Proejct, ETH Zurich.
-     -  *Cell Recognition with a Custom-Designed CMOS Biosensor Array*
-
-## Skills
-I conduct interdisciplinary research, leveraging methods and tools from multiple domains to solve high-impact scientific problems.
-- **Integrated Circuit Design**, including analog/mixed-signal circuits, digital backend physical design/synthesis, etc.
-- **Microfabrication**, including lithography, thin-film deposition, wet/dry etching, material/device characterization, etc.
-- **Machine Learning**, model training/inference pipelines, data processing, and automation scripting
-- **Biological Experiments**, culturing neuroblastoma cells (e.g., SH-SY5Y) and establishing 3D spheroid models.
-
-## Services
-
-- Reviewer for IEEE Conferences
-     -  IEEE International Symposium on Circuits and Systems (ISCAS)
  
 ## Publications
 
@@ -123,6 +98,35 @@ I conduct interdisciplinary research, leveraging methods and tools from multiple
             
 </ol>
 </div>
+
+## Teaching
+
+### Lectures
+- CMOS Electronics for Biological and Molecular Sensing, Master Course, ETH Zurich.
+     - Teaching Assistant, 2025 Fall
+- Electronic Circuits, Bachelor Course, ETH Zurich.
+     - Teaching Assistant, 2024 Fall
+
+
+### Mentoring
+- Noelle Held. 2025 Spring, Bachelor Thesis, ETH Zurich.
+     -  *Comparative Study on the Performance of Planar Microelectrodes and 3D Shell Electrodes for Biological Interfacing*
+- Joel Kiener, Julian Steiner and Mischa Vasylyev. 2025 Spring, Bachelor Group Proejct, ETH Zurich.
+     -  *Cell Recognition with a Custom-Designed CMOS Biosensor Array*
+
+## Skills
+I conduct interdisciplinary research, leveraging methods and tools from multiple domains to solve high-impact scientific problems.
+- **Integrated Circuit Design**, including analog/mixed-signal circuits, digital backend physical design/synthesis, etc.
+- **Microfabrication**, including lithography, thin-film deposition, wet/dry etching, material/device characterization, etc.
+- **Machine Learning**, model training/inference pipelines, data processing, and automation scripting
+- **Biological Experiments**, culturing neuroblastoma cells (e.g., SH-SY5Y) and establishing 3D spheroid models.
+
+## Services
+
+- Reviewer for IEEE Conferences
+     -  IEEE International Symposium on Circuits and Systems (ISCAS)
+
+
 
 
 
