@@ -2,11 +2,13 @@
 layout: homepage
 ---
 
-## About Me
+## About
 
-I am currently a Ph.D. student in the [Integrated Devices, Electronics, and Systems (IDEAS)](https://ideas.ethz.ch/) Group, supervised by Prof. Dr. Hua Wang at [ETH Zürich](https://ethz.ch/en.html), Switzerland. My research focuses on the development of devices, circuits and systems to enhance bio-CMOS interfaces, with a particular emphasis on three-dimensional bioelectronic interfaces. 
+Zhikai Huang is a Ph.D. student in the [Integrated Devices, Electronics, and Systems (IDEAS)](https://ideas.ethz.ch/) Group, supervised by Prof. Dr. Hua Wang at [ETH Zürich](https://ethz.ch/en.html), Switzerland. He is an IEEE Graduate Student Member, Young Professionals, Society Member of CAS, SSCS, EDS, EMBS and MEMS.
 
-Prior to my Ph.D., I completed my M.Sc. in Biomedical Engineering also at ETH Zurich and received a B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), China. I was a visiting research intern at physics department at [McGill University](https://www.mcgill.ca/), Canada. 
+His current research focuses on three areas: 1) CMOS-biology interface device design and CMOS post-processing; 2) Integrated circuits for electrochemical sensing and in-sensor computing; and 3) Bio-packaging and system integration.
+
+He completed his M.Sc. in Biomedical Engineering at ETH Zurich, B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), China, and was a visiting research intern at physics department at [McGill University](https://www.mcgill.ca/), Canada. 
 
 Feel free to reach out for any questions or collaboration opportunites.
 
