@@ -4,11 +4,11 @@ layout: homepage
 
 ## About
 
-Zhikai Huang is a Ph.D. student in the [Integrated Devices, Electronics, and Systems (IDEAS)](https://ideas.ethz.ch/) Group, supervised by Prof. Dr. Hua Wang at [ETH Zürich](https://ethz.ch/en.html), Switzerland. He is an IEEE Graduate Student Member, Young Professionals, Society Member of CAS, SSCS, EDS, EMBS and MEMS.
+I am a Ph.D. student in the [Integrated Devices, Electronics, and Systems (IDEAS)](https://ideas.ethz.ch/) Group, supervised by Prof. Dr. Hua Wang at [ETH Zürich](https://ethz.ch/en.html), Switzerland. I am an IEEE Graduate Student Member, Young Professionals, Society Member of CAS, SSCS, EDS, EMBS and MEMS.
 
-His current research focuses on three areas: 1) CMOS-biology interface device design and CMOS post-processing; 2) Integrated circuits for electrochemical sensing and in-sensor computing; and 3) Bio-packaging and system integration.
+My research explores CMOS-integrated bioelectronic devices and systems for three-dimensional biological interfacing. By combining CMOS post-processing, integrated sensing circuits, and mechanically reconfigurable micro-structures, I develop Lab-on-CMOS platforms that enable active manipulation and multimodal sensing of cells and organoids. My work bridges integrated circuit design, microfabrication, and system-level bio-integration to support scalable and application-driven biomedical technologies.
 
-He completed his M.Sc. in Biomedical Engineering at ETH Zurich, B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), China, and was a visiting research intern at physics department at [McGill University](https://www.mcgill.ca/), Canada. 
+I completed M.Sc. in Biomedical Engineering at ETH Zurich, B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), China, and was a visiting research intern at physics department at [McGill University](https://www.mcgill.ca/), Canada. 
 
 Feel free to reach out for any questions or collaboration opportunites.
 
