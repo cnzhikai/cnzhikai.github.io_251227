@@ -4,11 +4,9 @@ layout: homepage
 
 ## About
 
-I am a Ph.D. student in the [Integrated Devices, Electronics, and Systems (IDEAS)](https://ideas.ethz.ch/) Group, supervised by Prof. Dr. Hua Wang at [ETH Zürich](https://ethz.ch/en.html), Switzerland. I am an IEEE Graduate Student Member, Young Professionals, Society Member of CAS, SSCS, EDS, EMBS and MEMS.
+I am a Ph.D. student in electrical engineering and information technology at [ETH Zürich](https://ethz.ch/en.html), Switzerland. My advisor is Prof. Dr. Hua Wang, and I am part of [Integrated Devices, Electronics, and Systems (IDEAS) Group](https://ideas.ethz.ch/). In my doctoral studies, I develop CMOS-integrated bioelectronic devices, circuits, and systems for three-dimensional biological interfaces. Before I joined the IDEAS Group, I had written my master's thesis at the [Energy-Efficient Circuits and Intelligent Systems (EECIS) Group](https://circuit.ee.ethz.ch/) under Prof. Dr. Taekwang Jang, where I worked on low-power analog-to-digital converter for capacitive MEMS interfaces.
 
-My research explores CMOS-integrated bioelectronic devices and systems for three-dimensional biological interfacing. By combining CMOS post-processing, integrated sensing circuits, and mechanically reconfigurable micro-structures, I develop Lab-on-CMOS platforms that enable active manipulation and multimodal sensing of cells and organoids. My work bridges integrated circuit design, microfabrication, and system-level bio-integration to support scalable and application-driven biomedical technologies.
-
-I completed M.Sc. in Biomedical Engineering at ETH Zurich, B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), China, and was a visiting research intern at physics department at [McGill University](https://www.mcgill.ca/), Canada. 
+I obtained my M.Sc. in Biomedical Engineering at ETH Zurich, B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), China, and was a visiting research intern at physics department at [McGill University](https://www.mcgill.ca/), Canada. I am an IEEE Graduate Student Member, Young Professionals, Society Member of CAS, SSCS, EDS, EMBS and MEMS.
 
 Feel free to reach out for any questions or collaboration opportunites.
 
