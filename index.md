@@ -4,11 +4,9 @@ layout: homepage
 
 ## About
 
-I am a Ph.D. student in electrical engineering and information technology at [ETH Zürich](https://ethz.ch/en.html), Switzerland. My advisor is Prof. Dr. Hua Wang, and I am part of [Integrated Devices, Electronics, and Systems (IDEAS) Group](https://ideas.ethz.ch/). In my doctoral studies, I develop CMOS-integrated bioelectronic devices, circuits, and systems for three-dimensional biological interfaces. Before I joined the IDEAS Group, I had written my master's thesis at the [Energy-Efficient Circuits and Intelligent Systems (EECIS) Group](https://circuit.ee.ethz.ch/) under Prof. Dr. Taekwang Jang, where I worked on low-power analog-to-digital converter for capacitive MEMS interfaces.
+I am a Ph.D. student in Department of Information Technology and Electrical Engineering (D-ITET) at [ETH Zürich](https://ethz.ch/en.html), working in [Integrated Devices, Electronics, and Systems (IDEAS) Lab](https://ideas.ethz.ch/) under supervison of Prof. Dr. Hua Wang. I obtained my M.Sc. in Biomedical Engineering at ETH Zurich, B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), and was a visiting research intern at physics department at [McGill University](https://www.mcgill.ca/), Canada.
 
-I obtained my M.Sc. in Biomedical Engineering at ETH Zurich, B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), China, and was a visiting research intern at physics department at [McGill University](https://www.mcgill.ca/), Canada. I am an IEEE Graduate Student Member, Young Professionals, Society Member of CAS, SSCS, EDS, EMBS and MEMS.
-
-Feel free to reach out for any questions or collaboration opportunites.
+In my doctoral studies, I develop CMOS-integrated bioelectronic devices, circuits, and systems for three-dimensional biological interfaces. Feel free to reach out for any questions or collaboration opportunites.
 
 
 ## News
