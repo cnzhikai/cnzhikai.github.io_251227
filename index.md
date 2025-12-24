@@ -24,15 +24,6 @@ Feel free to reach out for any questions or collaboration opportunites.
  
 ## Publications
 
-### Thesis
-
-- A Continuous-Time Input Pipelined SAR ADC with Loop-Embedded Predictive Offset Generation
-  -  Zhikai Huang, *2022 Master of Science in Biomedical Engineering Thesis at ETH Zurich*
-- A Battery State-of-Charge Estimation ASIC without Current Dectection
-  -  Zhikai Huang, *2019 Bachelor of Engineering in Microelectronics Thesis at Xi'an Jiaotong University*
-
-
-
 
 ### Conference Papers 
 
@@ -86,6 +77,16 @@ Feel free to reach out for any questions or collaboration opportunites.
             
 </ol>
 </div>
+
+### Thesis
+
+- A Continuous-Time Input Pipelined SAR ADC with Loop-Embedded Predictive Offset Generation
+  -  Zhikai Huang, *2022 Master of Science in Biomedical Engineering Thesis at ETH Zurich*
+- A Battery State-of-Charge Estimation ASIC without Current Dectection
+  -  Zhikai Huang, *2019 Bachelor of Engineering in Microelectronics Thesis at Xi'an Jiaotong University*
+
+
+
 
 ## Teaching
 
