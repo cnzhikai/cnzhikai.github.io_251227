@@ -16,13 +16,10 @@ Feel free to reach out for any questions or collaboration opportunites.
 
 ## News
 <ul id="news-list">
-  <li class="news-item"> [2025.11] The paper about Multi-Size Micro-Cage is accepted to IEEE ISSCC 2026. Congrats! </li>
-  <li class="news-item"> [2024.10] I presented my paper on Actuatable Microcage on IEEE BioCAS 2024 in Xi'an China.</li>
-  <li class="news-item"> [2024.09] I am invited to become a reviewer at IEEE ISCAS conference. Congrats!</li>
-  <li class="news-item"> [2024.08] I got my first paper (as first-author) during PhD accepted to IEEE BioCAS 2024. </li>
-  <li class="news-item"> [2022.09] I started my Ph.D. at D-ITET, ETH Zurich, supervised by Prof. Hua Wang. Looking forward to the Ph.D. journey!</li>
-  <li class="news-item"> [2022.06] I gave the finial presentation of master thesis under supervison of Prof. Taekwang Jang, which marked the end of my master study.</li>
-  <li class="news-item"> [2022.04] My first paper (as third-author) in life is online! The work was published at IEEE DATE 2022 and focuses on machine-learning accelerators. Congrats!</li>
+  <li class="news-item"> [2025.11] One paper on "Multi-Size Micro-Cage on CMOS" is accepted to ISSCC 2026. </li>
+  <li class="news-item"> [2024.09] I am invited to become a reviewer at IEEE ISCAS conference. </li>
+  <li class="news-item"> [2024.08] One paper on "Actuatable Micro-Cage" is accepted to BioCAS 2024. </li>
+  <li class="news-item"> [2022.04] One paper on "SNN Machine Learning Accelerator" accepted to IEEE DATE 2022 is available on IEEExplore.</li>
 </ul><button id="toggle-news">Show More</button>
 
 
