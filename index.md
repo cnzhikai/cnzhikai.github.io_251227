@@ -4,17 +4,15 @@ layout: homepage
 
 ## About
 
-I am a Ph.D. student in Department of Information Technology and Electrical Engineering (D-ITET) at [ETH Zürich](https://ethz.ch/en.html), working in [Integrated Devices, Electronics, and Systems (IDEAS) Group](https://ideas.ethz.ch/) under supervison of Prof. Dr. Hua Wang. In my doctoral studies, I develop CMOS-integrated bioelectronic devices, circuits, and systems for three-dimensional biological interfaces. 
-
-Prior to my PhD, I obtained my M.Sc. in Biomedical Engineering at ETH Zurich, B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), and was a visiting research intern at physics department at [McGill University](https://www.mcgill.ca/).
+I am a Ph.D. student in Department of Information Technology and Electrical Engineering (D-ITET) at [ETH Zürich](https://ethz.ch/en.html), working in [Integrated Devices, Electronics, and Systems (IDEAS) Group](https://ideas.ethz.ch/) under supervison of Prof. Dr. Hua Wang. Prior to my PhD, I obtained my M.Sc. in Biomedical Engineering at ETH Zurich, B.Eng. in Microelectronics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), and was a visiting research intern at physics department at [McGill University](https://www.mcgill.ca/).
 
 Feel free to reach out for any questions or collaboration opportunites.
 
 ## Research
-- Analog/Mixed-signal integrated circuits
-- CMOS bioelectronics
-- 3D integrated system
-- Machine learning
+- Analog/Mixed-Signal Integrated Circuits
+- CMOS Bioelectronics
+- 3D Integrated System
+- Machine Learning
 
 ## News
 <ul id="news-list">
