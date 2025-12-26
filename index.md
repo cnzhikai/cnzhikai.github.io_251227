@@ -9,7 +9,7 @@ I am a Ph.D. student in Department of Information Technology and Electrical Engi
 Feel free to reach out for any questions or collaboration opportunites.
 
 ## Research
-- Analog/Mixed-Signal Integrated Circuits
+- Integrated Circuits
 - CMOS Bioelectronics
 - 3D Integrated System
 - Machine Learning
