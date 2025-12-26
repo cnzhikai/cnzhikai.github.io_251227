@@ -9,10 +9,10 @@ I am a Ph.D. student in Department of Information Technology and Electrical Engi
 Feel free to reach out for any questions or collaboration opportunites.
 
 ## Research
-- Integrated Circuits
-- CMOS Bioelectronics
-- 3D Integrated System
-- Machine Learning
+I am mainly interested in the following three areas:
+- **CMOS Bioelectronics**: Development of CMOS cellular/molecular sensors and actuators for biological interface. Related paper:  <a href="https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631420"><b>[VLSI 2024]</b></a>, <a href="https://doi.org/10.1109/ESSERC62670.2024.10719586"><b>[ESSERC 2024]</b></a>, etc.
+- **Integrated 3D System**: Extending 2D chip interface to 3D world using advanced packaging, interconnects, assembly and system integration. Related paper: <a href=""><b>[ISSCC 2026]</b></a>, <a href="https://doi.org/10.1109/BioCAS61083.2024.10798135"><b>[BioCAS 2024]</b></a>, etc.
+- **Machine Learning Hardware**: Enhancing large-scale data handling with in-sensor computing, or machine learning acceleartion. Related paper:  <a href="https://doi.org/10.23919/DATE54114.2022.9774552"><b>[DATE 2022]</b></a>
 
 <!--
 ## News
