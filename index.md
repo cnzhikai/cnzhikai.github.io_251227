@@ -119,8 +119,8 @@ Feel free to reach out for any questions or collaboration opportunites.
 ## Skills
 I conduct interdisciplinary research, leveraging methods and tools from multiple domains to solve high-impact scientific problems.
 - **Integrated Circuit Design**, including analog/mixed-signal circuits, digital backend physical design/synthesis, etc.
-- **Microfabrication**, including lithography, thin-film deposition, wet/dry etching, material/device characterization, etc.
-- **Machine Learning**, model training/inference pipelines, data processing, and automation scripting
+- **CMOS Post-Processing/ MEMS/ Microfabrication**, including lithography, thin-film deposition, wet/dry etching, material/device characterization, IC packaging, etc.
+- **Machine Learning**, including analog in-sensor computing, digital machine learning acceleators, and training machine learning models, etc.
 - **Biological Experiments**, culturing neuroblastoma cells (e.g., SH-SY5Y) and establishing 3D spheroid models.
 
 ## Services
