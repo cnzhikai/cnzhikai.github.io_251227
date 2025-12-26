@@ -14,6 +14,7 @@ Feel free to reach out for any questions or collaboration opportunites.
 - 3D Integrated System
 - Machine Learning
 
+<!--
 ## News
 <ul id="news-list">
   <li class="news-item"> [2025.11] One paper on "Multi-Size Micro-Cage on CMOS" is accepted to ISSCC 2026. </li>
@@ -21,7 +22,7 @@ Feel free to reach out for any questions or collaboration opportunites.
   <li class="news-item"> [2024.08] One paper on "Actuatable Micro-Cage" is accepted to BioCAS 2024. </li>
   <li class="news-item"> [2022.04] One paper on "SNN Machine Learning Accelerator" accepted to IEEE DATE 2022 is available on IEEExplore.</li>
 </ul><button id="toggle-news">Show More</button>
-
+-->
 
 
  
